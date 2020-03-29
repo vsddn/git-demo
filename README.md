@@ -6,3 +6,8 @@ This is some random text (as promised above). We are learning git and it has bee
 I hope by the end of this course i would have learnt a few cool things.
 
 This is the line that is append later.
+
+## content of the website
+
+These are the pages that will be included in our website
+1. Index.html
